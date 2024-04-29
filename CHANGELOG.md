@@ -1,5 +1,14 @@
 # Changelog
 
+## [3.0.4](https://github.com/Pinterest/PINCache/tree/3.0.4) (TBD)
+
+[Full Changelog](https://github.com/Pinterest/PINCache/compare/3.0.3...3.0.4)
+
+
+- Update project to build and run using Xcode 15
+- Update CocoaPods Podspec to include Privacy Manifest file
+- Bump minimum deployment targets to iOS 12, tvOS 12, watchOS 4, and macOS 10.13
+
 ## [3.0.3](https://github.com/Pinterest/PINCache/tree/3.0.3) (2020-10-22)
 
 [Full Changelog](https://github.com/Pinterest/PINCache/compare/3.0.2...3.0.3)

@@ -14,10 +14,24 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CC0105491E27114300890935"
-               BuildableName = "PINOperation.framework"
-               BlueprintName = "PINOperation-macOS"
-               ReferencedContainer = "container:PINOperation.xcodeproj">
+               BlueprintIdentifier = "68F210182BE55BDE00CFE762"
+               BuildableName = "PINCache.framework"
+               BlueprintName = "PINCache-visionOS"
+               ReferencedContainer = "container:PINCache.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "NO"
+            buildForProfiling = "NO"
+            buildForArchiving = "NO"
+            buildForAnalyzing = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "68F2102D2BE55C6C00CFE762"
+               BuildableName = "PINCache-visionOSTests.xctest"
+               BlueprintName = "PINCache-visionOSTests"
+               ReferencedContainer = "container:PINCache.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -30,10 +44,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CC0105491E27114300890935"
-            BuildableName = "PINOperation.framework"
-            BlueprintName = "PINOperation-macOS"
-            ReferencedContainer = "container:PINOperation.xcodeproj">
+            BlueprintIdentifier = "CC0105C01E271A4000890935"
+            BuildableName = "PINCache.framework"
+            BlueprintName = "PINCache-tvOS"
+            ReferencedContainer = "container:PINCache.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <Testables>
@@ -41,10 +55,10 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CC0105731E27117F00890935"
-               BuildableName = "PINOperation-macOSTests.xctest"
-               BlueprintName = "PINOperation-macOSTests"
-               ReferencedContainer = "container:PINOperation.xcodeproj">
+               BlueprintIdentifier = "68F2102D2BE55C6C00CFE762"
+               BuildableName = "PINCache-visionOSTests.xctest"
+               BlueprintName = "PINCache-visionOSTests"
+               ReferencedContainer = "container:PINCache.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -59,15 +73,6 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CC0105491E27114300890935"
-            BuildableName = "PINOperation.framework"
-            BlueprintName = "PINOperation-macOS"
-            ReferencedContainer = "container:PINOperation.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
@@ -78,10 +83,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "CC0105491E27114300890935"
-            BuildableName = "PINOperation.framework"
-            BlueprintName = "PINOperation-macOS"
-            ReferencedContainer = "container:PINOperation.xcodeproj">
+            BlueprintIdentifier = "68F210182BE55BDE00CFE762"
+            BuildableName = "PINCache.framework"
+            BlueprintName = "PINCache-visionOS"
+            ReferencedContainer = "container:PINCache.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
