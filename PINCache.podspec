@@ -24,7 +24,7 @@ EOS
   s.prefix_header_contents = pch_PIN
   s.subspec 'Core' do |sp|
       sp.source_files  = 'Source/*.{h,m}'
-      sp.dependency 'PINOperation', '~> 1.2.2'
+      sp.dependency 'PINOperation', '~> 1.2.3'
   end
   s.subspec 'Arc-exception-safe' do |sp|
       sp.dependency 'PINCache/Core'
