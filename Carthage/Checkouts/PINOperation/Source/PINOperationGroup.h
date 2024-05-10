@@ -1,6 +1,6 @@
 //
 //  PINOperationGroup.h
-//  PINQueue
+//  PINOperation
 //
 //  Created by Garrett Moon on 10/8/16.
 //  Copyright © 2016 Pinterest. All rights reserved.
